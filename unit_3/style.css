@@ -1,9 +1,6 @@
 body {
- 	text-align: left;
  	background: url("images/surfs.jpg");
  	background-size: cover;
- 	color: #00453D;
- 	font-family: Avenir;
 }
 h1 {
 	text-align: left;
