@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background: url("images/surfs.jpg");
+  background-size: cover;
+  color: #fff;
+  font-family: Avenir;
+}
+hr {
+  width: 200px;
+}
+p {
+  font-size: 22px;
+}
