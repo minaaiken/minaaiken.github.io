@@ -1,0 +1,47 @@
+body {
+ 	background: url("images/surfs.jpg");
+ 	background-size: cover;
+}
+h1 {
+	text-align: left;
+	font-family: Avenir;
+	color: #00453D;
+	font-size: 48px;
+	font-weight: 700;
+}
+p {
+	text-align: left;
+	font-family: Avenir; 
+	color: #00453D;
+	font-size: 24px;
+	font-weight: 300;
+}
+h3 {
+	text-align: left;
+	font-family: Avenir;
+	color: #00453D;
+	font-size: 18px;
+	font-family: 300;
+}
+ul {
+	text-align: left;
+	list-style-type: none;
+	font-family: Avenir;
+	color: #00453D;
+	font-size: 18px;
+	font-family: 300;
+}
+p {
+	text-align: left;
+	font-family: Avenir;
+	color: #00453D;
+	font-size: 12px;
+	font-family: 300;
+}
+a {
+	text-align: left;
+	font-family: Avenir;
+	color: #00453D;
+	font-size: 12px;
+	font-family: 300;
+}
