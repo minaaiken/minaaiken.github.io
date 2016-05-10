@@ -13,14 +13,14 @@ h1 {
 }
 p {
 	text-align: left;
-	font-family: 'Avenir', sans-serif;
+	font-family: Avenir;
 	color: #00453D;
 	font-size: 24px;
 	font-weight: 300;
 }
 h3 {
 	text-align: left;
-	font-family: 'Avenir', sans-serif;
+	font-family: Avenir;
 	color: #00453D;
 	font-size: 18px;
 	font-family: 300;
@@ -28,21 +28,21 @@ h3 {
 ul {
 	text-align: left;
 	list-style-type: none;
-	font-family: 'Avenir', sans-serif;
+	font-family: Avenir;
 	color: #00453D;
 	font-size: 14px;
 	font-family: 300;
 }
 p {
 	text-align: left;
-	font-family: 'Avenir', sans-serif;
+	font-family: Avenir;
 	color: #00453D;
 	font-size: 12px;
 	font-family: 300;
 }
 a {
 	text-align: left;
-	font-family: 'Avenir', sans-serif;
+	font-family: Avenir;
 	color: #00453D;
 	font-size: 12px;
 	font-family: 300;
