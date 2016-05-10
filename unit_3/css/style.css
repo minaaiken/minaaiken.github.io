@@ -12,15 +12,7 @@ h1 {
 	font-family: 'Oswald', sans-serif;;
 	color: #00453D;
 	font-size: 48px;
-	font-weight: 400;
-	margin-left: 20px;
-}
-p {
-	text-align: left;
-	font-family: Avenir;
-	color: #00453D;
-	font-size: 24px;
-	font-weight: 100;
+	font-weight: 400px;
 	margin-left: 20px;
 }
 h3 {
@@ -28,15 +20,7 @@ h3 {
 	font-family: Avenir;
 	color: #00453D;
 	font-size: 14px;
-	font-family: 100;
-	margin-left: 20px;
-}
-p {
-	text-align: left;
-	font-family: Avenir;
-	color: #00453D;
-	font-size: 14px;
-	font-family: 100;
+	font-family: 100px;
 	margin-left: 20px;
 }
 a {
@@ -44,6 +28,6 @@ a {
 	font-family: Avenir;
 	color: #00453D;
 	font-size: 14px;
-	font-family: 100;
+	font-family: 100px;
 	margin-left: 20px;
 }
