@@ -3,11 +3,6 @@ body {
  	background: url("../images/surfs.jpg");
  	background-size: cover;
  	background-position: 50% 70%;
- 	padding-top: 25px;
- 	padding-bottom: 25px;
- 	padding-right: 25px:
- 	padding-left: 25px;
- 	margin-left: 25px;
 }
 h1 {
 	text-align: left;
@@ -15,7 +10,7 @@ h1 {
 	color: #00453D;
 	font-size: 48px;
 	font-weight: 400;
-	margin-left: 25px;
+	margin-left: 10px;
 }
 p {
 	text-align: left;
@@ -23,7 +18,7 @@ p {
 	color: #00453D;
 	font-size: 24px;
 	font-weight: 300;
-	margin-left: 25px;
+	margin-left: 10px;
 }
 h3 {
 	text-align: left;
@@ -31,7 +26,7 @@ h3 {
 	color: #00453D;
 	font-size: 18px;
 	font-family: 300;
-	margin-left: 25px;
+	margin-left: 10px;
 }
 ul {
 	text-align: left;
@@ -40,7 +35,7 @@ ul {
 	color: #00453D;
 	font-size: 14px;
 	font-family: 300;
-	margin-left: 25px;
+	margin-left: 10px;
 }
 p {
 	text-align: left;
@@ -48,7 +43,7 @@ p {
 	color: #00453D;
 	font-size: 12px;
 	font-family: 300;
-	margin-left: 25px;
+	margin-left: 10px;
 }
 a {
 	text-align: left;
@@ -56,5 +51,5 @@ a {
 	color: #00453D;
 	font-size: 12px;
 	font-family: 300;
-	margin-left: 25px;
+	margin-left: 10px;
 }
