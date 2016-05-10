@@ -9,18 +9,11 @@ h1 {
 	font-size: 48px;
 	font-weight: 700;
 }
-p {
-	text-align: left;
-	font-family: Avenir; 
-	color: #00453D;
-	font-size: 24px;
-	font-weight: 300;
-}
 h3 {
 	text-align: left;
 	font-family: Avenir;
 	color: #00453D;
-	font-size: 18px;
+	font-size: 14px;
 	font-family: 300;
 }
 ul {
@@ -28,20 +21,21 @@ ul {
 	list-style-type: none;
 	font-family: Avenir;
 	color: #00453D;
-	font-size: 18px;
-	font-family: 300;
+	font-size: 14px;
+	font-family: 100;
+	margin: 0;
 }
 p {
 	text-align: left;
 	font-family: Avenir;
 	color: #00453D;
-	font-size: 12px;
-	font-family: 300;
+	font-size: 14px;
+	font-family: 100;
 }
 a {
 	text-align: left;
 	font-family: Avenir;
 	color: #00453D;
-	font-size: 12px;
-	font-family: 300;
+	font-size: 14px;
+	font-family: 100;
 }
