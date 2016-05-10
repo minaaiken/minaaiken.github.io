@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald);
 body {
  	background: url("../images/surfs.jpg");
  	background-size: cover;
@@ -5,10 +6,10 @@ body {
 }
 h1 {
 	text-align: left;
-	font-family: Avenir;
+	font-family: 'Oswald', sans-serif;;
 	color: #00453D;
 	font-size: 48px;
-	font-weight: 900;
+	font-weight: 400;
 }
 p {
 	text-align: left;
