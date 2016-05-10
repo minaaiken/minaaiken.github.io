@@ -1,6 +1,7 @@
 body {
  	background: url("../images/surfs.jpg");
  	background-size: cover;
+ 	background-position: center center;
 }
 h1 {
 	text-align: left;
