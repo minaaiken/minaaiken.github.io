@@ -7,14 +7,15 @@ body {
  	background-size: cover;
  	min-height: 100%;
  	text-align: left;
-	font-family: Avenir, Arial, sans-serif;
 	color: #00453D;
 }
 h1 {
+	font-family: 'Oswald', Arial, sans-serif;
 	font-size: 48px;
 	font-weight: 700;
 }
 ul {
+	font-family: Avenir, Arial, sans-serif;
     	font-size: 14px;
     	font-weight: 100;
     	margin: 0;
@@ -23,14 +24,17 @@ li {
     list-style-type: none;
 }
 h3 {
+	font-family: Avenir, Arial, sans-serif;
 	font-size: 14px;
 	font-weight: 300;
 }
 p {
+	font-family: Avenir, Arial, sans-serif;
 	font-size: 14px;
 	font-weight: 100;
 }
 a {
+	font-family: Avenir, Arial, sans-serif;
 	font-size: 14px;
 	font-weight: 100;
 }
