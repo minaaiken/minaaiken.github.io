@@ -22,6 +22,7 @@ h3 {
 }
 ul {
     text-align: left;
+    list-style-type: none;
     font-family: Avenir, Arial, sans-serif;
     color: #00453D ;
     font-size: 14px;
