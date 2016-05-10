@@ -5,44 +5,31 @@ body {
  	background: url("images/surfs.jpg");
  	background-size: cover;
  	min-height: 100%;
-}
-h1 {
-	text-align: left;
+ 	text-align: left;
 	font-family: Avenir, Arial, sans-serif;
 	color: #00453D;
+}
+h1 {
 	font-size: 48px;
 	font-weight: 700;
 }
-h3 {
-	text-align: left;
-	font-family: Avenir, Arial, sans-serif;
-	color: #00453D;
-	font-size: 14px;
-	font-weight: 300;
-}
 ul {
-    text-align: left;
-    list-style-type: none;
-    font-family: Avenir, Arial, sans-serif;
-    color: #00453D ;
-    font-size: 14px;
-    font-weight: 100;
-    margin: 0;
+    	font-size: 14px;
+    	font-weight: 100;
+    	margin: 0;
 }
 li {
     list-style-type: none;
 }
+h3 {
+	font-size: 14px;
+	font-weight: 300;
+}
 p {
-	text-align: left;
-	font-family: Avenir, Arial, sans-serif;
-	color: #00453D;
 	font-size: 14px;
 	font-weight: 100;
 }
 a {
-	text-align: left;
-	font-family: Avenir, Arial, sans-serif;
-	color: #00453D;
 	font-size: 14px;
 	font-weight: 100;
 }
