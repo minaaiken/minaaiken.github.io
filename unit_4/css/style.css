@@ -8,7 +8,7 @@ body {
  	min-height: 100%;
  	text-align: left;
 	color: #00453D;
-	margin: 20px;
+	margin: 25px;
 }
 h1 {
 	font-family: 'Oswald', Arial, sans-serif;
@@ -42,5 +42,5 @@ a {
 	color: red;
 }
 a: hover {
-	text-decoration: underline;
+	text-decoration: none;
 }
