@@ -27,15 +27,6 @@ h3 {
 	text-align: left;
 	font-family: Avenir;
 	color: #00453D;
-	font-size: 18px;
-	font-family: 300;
-	margin-left: 10px;
-}
-ul {
-	text-align: left;
-	list-style-type: left;
-	font-family: Avenir;
-	color: #00453D;
 	font-size: 14px;
 	font-family: 300;
 	margin-left: 10px;
@@ -44,7 +35,7 @@ p {
 	text-align: left;
 	font-family: Avenir;
 	color: #00453D;
-	font-size: 12px;
+	font-size: 14px;
 	font-family: 300;
 	margin-left: 10px;
 }
@@ -52,7 +43,7 @@ a {
 	text-align: left;
 	font-family: Avenir;
 	color: #00453D;
-	font-size: 12px;
+	font-size: 14px;
 	font-family: 300;
 	margin-left: 10px;
 }
