@@ -39,8 +39,10 @@ a {
 	font-family: Avenir, Arial, sans-serif;
 	font-size: 14px;
 	font-weight: 100;
-	color: red;
+	color: #00453D;
+	text-decoration: none;
 }
 a: hover {
+	color: red;
 	text-decoration: none;
 }
