@@ -25,6 +25,15 @@ ul {
 	font-family: 100;
 	margin: 0;
 }
+li {
+	text-align: left;
+	list-style-type: none;
+	font-family: Avenir;
+	color: #00453D;
+	font-size: 14px;
+	font-family: 100;
+	margin: 0;
+}
 p {
 	text-align: left;
 	font-family: Avenir;
