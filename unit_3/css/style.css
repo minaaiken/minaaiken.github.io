@@ -3,6 +3,9 @@ body {
  	background: url("../images/surfs.jpg");
  	background-size: cover;
  	background-position: 50% 70%;
+ 	margin-left: 10px;
+ 	margin-bottom: 10px;
+ 	margin-top: 10px
 }
 h1 {
 	text-align: left;
