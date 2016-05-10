@@ -1,25 +1,36 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald);
+header {
+	min-height: 100%;
+}
 body {
- 	background: url("../images/surfs.jpg");
+ 	background: url("images/surfs.jpg");
  	background-size: cover;
- 	background-position: 50% 70%;
- 	margin-left: 20px;
- 	margin-bottom: 20px;
- 	margin-top: 10px
+ 	min-height: 100%;
+ 	text-align: left;
+	font-family: Avenir, Arial, sans-serif;
+	color: #00453D;
 }
 h1 {
-	text-align: left;
-	font-family: 'Oswald', sans-serif;;
-	color: #00453D;
 	font-size: 48px;
-	font-weight: 400;
-	margin-left: 20px;
+	font-weight: 700;
+}
+ul {
+    	font-size: 14px;
+    	font-weight: 100;
+    	margin: 0;
+}
+li {
+    list-style-type: none;
 }
 h3 {
-	text-align: left;
-	font-family: Avenir;
-	color: #00453D;
 	font-size: 14px;
-	font-family: 100;
-	margin-left: 20px;
+	font-weight: 300;
+}
+p {
+	font-size: 14px;
+	font-weight: 100;
+}
+a {
+	font-size: 14px;
+	font-weight: 100;
 }
