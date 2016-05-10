@@ -4,7 +4,6 @@ header {
 body {
  	background: url("images/surfs.jpg");
  	background-size: cover;
- 	min-height: 100%;
 }
 h1 {
 	text-align: left;
@@ -21,22 +20,15 @@ h3 {
 	font-family: 300;
 }
 ul {
-	text-align: left;
-	list-style-type: none;
-	font-family: Avenir;
-	color: #00453D;
-	font-size: 14px;
-	font-family: 100;
-	margin: 0;
+    text-align: left;
+    font-family: Avenir;
+    color: #00453D ;
+    font-size: 14px;
+    font-family: 100;
+    margin: 0;
 }
 li {
-	text-align: left;
-	list-style-type: none;
-	font-family: Avenir;
-	color: #00453D;
-	font-size: 14px;
-	font-family: 100;
-	margin: 0;
+    list-style-type: none;
 }
 p {
 	text-align: left;
