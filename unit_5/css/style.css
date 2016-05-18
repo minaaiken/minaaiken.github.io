@@ -4,33 +4,35 @@ header {
 	border: 1px black solid;
 	padding: 20px;
 	min-height: 100%;
+	font-color: #00453D;
 }
 body {
  	text-align: left;
 	border: 1px black solid;
 	padding: 20px;
 	min-height: 100%;
+	font-color: #00453D;
 }
 div {
-	font-color: #FF957E;
+	background-color: #FF957E;
 	border: 1px black solid;
 	padding: 20px;
 	min-height: 100%;
 }
 h1 {
-	font-color: #FFED74;
+	background-color: #FFED74;
 	font-family: 'Oswald', Arial, sans-serif;
 	font-size: 48px;
 	font-weight: 700;
 }
 div {
-	font-color: #FF957E;
+	background-color: #FF957E;
 	border: 1px black solid;
 	padding: 20px;
 	min-height: 100%;
 }
 nav {
-    font-color; #E8C66A;
+    background-color; #E8C66A;
 	font-family: Avenir, Arial, sans-serif;
     font-size: 14px;
     font-weight: 100;
@@ -41,10 +43,11 @@ li {
     list-style-type: none;
 }
 footer {
+	background-color: #FF957E;
 	font-family: Avenir, Arial, sans-serif;
 	font-size: 14px;
 	font-weight: 100;
-	color: #FF957E;
+	font-color: #00453D;
 	text-decoration: none;
 	border: 1px black solid;
 	padding: 20px;
