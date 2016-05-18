@@ -6,13 +6,6 @@ header {
 	min-height: 100%;
 	font-color: #00453D;
 }
-body {
- 	text-align: left;
-	border: 1px black solid;
-	padding: 20px;
-	min-height: 100%;
-	font-color: #00453D;
-}
 div {
 	background-color: #FF957E;
 	border: 1px black solid;
