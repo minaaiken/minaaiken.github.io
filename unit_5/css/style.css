@@ -17,6 +17,8 @@ h1 {
 	font-family: 'Oswald', Arial, sans-serif;
 	font-size: 48px;
 	font-weight: 700;
+	border: 1px black solid;
+	padding: 20px;
 }
 div {
 	background-color: #FF957E;
@@ -30,7 +32,8 @@ nav {
     font-size: 14px;
     font-weight: 100;
     margin: 0;
-    padding: 0;
+    border: 1px black solid;
+	padding: 20px;
 }
 li {
     list-style-type: none;
