@@ -1,21 +1,36 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald);
 header {
+	background-color: #FFED74; 
+	border: 1px black solid;
+	padding: 20px;
 	min-height: 100%;
 }
 body {
- 	background: url("images/mikeysurfs.jpg");
- 	background-size: cover;
-    background-position: 50% 70%
  	text-align: left;
-	color: #00453D;
-	margin: 25px;
+	border: 1px black solid;
+	padding: 20px;
+	min-height: 100%;
+}
+div {
+	font-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+	min-height: 100%;
 }
 h1 {
+	font-color: #FFED74;
 	font-family: 'Oswald', Arial, sans-serif;
 	font-size: 48px;
 	font-weight: 700;
 }
-ul {
+div {
+	font-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+	min-height: 100%;
+}
+nav {
+    font-color; #E8C66A;
 	font-family: Avenir, Arial, sans-serif;
     font-size: 14px;
     font-weight: 100;
@@ -25,22 +40,15 @@ ul {
 li {
     list-style-type: none;
 }
-h3 {
-	font-family: Avenir, Arial, sans-serif;
-	font-size: 14px;
-	font-weight: 300;
-}
-p {
+footer {
 	font-family: Avenir, Arial, sans-serif;
 	font-size: 14px;
 	font-weight: 100;
-}
-a {
-	font-family: Avenir, Arial, sans-serif;
-	font-size: 14px;
-	font-weight: 100;
-	color: #00453D;
+	color: #FF957E;
 	text-decoration: none;
+	border: 1px black solid;
+	padding: 20px;
+	min-height: 100%;
 }
 a: hover {
 	color: #e74900;
