@@ -1,0 +1,72 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+header {
+	background-color: #FFED74; 
+	border: 1px black solid;
+	padding: 20px;
+	min-height: 100%;
+	font-color: #00453D;
+}
+div {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+	min-height: 100%;
+}
+h1 {
+	background-color: #FFED74;
+	font-family: 'Oswald', Arial, sans-serif;
+	font-size: 48px;
+	font-weight: 700;
+	border: 1px black solid;
+	padding: 20px;
+}
+div {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+	min-height: 100%;
+}
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+	padding: 20px;
+	font-family: Avenir, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 100;
+    margin: 0;
+}
+li {
+    list-style-type: none;
+}
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+	font-family: Avenir, Arial, sans-serif;
+	font-size: 14px;
+	font-weight: 100;
+	font-color: #00453D;
+	text-decoration: none;
+	min-height: 100%;
+}
+a: hover {
+	color: #e74900;
+	text-decoration: none;
+}
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #E5B2A2;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#right {
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+}
