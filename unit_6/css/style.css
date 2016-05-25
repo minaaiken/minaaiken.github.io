@@ -63,10 +63,16 @@ a: hover {
 	background-color: #E5B2A2;
 	border: 1px black solid;
 	padding: 20px;
+	background-color: violet;
+	float: left;
+	width: 30%;
 }
 
 #right {
 	background-color: #E55B88;
 	border: 1px black solid;
 	padding: 20px;
+	background-color: pink;
+	float: right;
+	width: 62%;
 }
