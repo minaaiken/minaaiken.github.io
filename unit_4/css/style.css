@@ -3,7 +3,6 @@ header {
 	min-height: 100%;
 }
 body {
- 	display: block;
  	background: url("images/poppy.jpg");
  	background-size: cover;
     background-position: 50% 70%
