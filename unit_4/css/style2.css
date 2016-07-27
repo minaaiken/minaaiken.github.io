@@ -11,6 +11,7 @@ h1 {
 	font-family: 'Oswald', Arial, sans-serif;
 	font-size: 48px;
 	font-weight: 700;
+	background: url("images/poppy.jpg");
 	background-image: 50% 70%
 }
 p {
