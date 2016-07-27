@@ -1,0 +1,31 @@
+@import url(httmps://fonts.googleapis.com/css?family=Oswald);
+header {
+	min-height: 100%;
+}
+body {
+	text-align: left;
+	color: #00453D;
+	margin: 55px;
+}
+h1 {
+	font-family: 'Oswald', Arial, sans-serif;
+	font-size: 48px;
+	font-weight: 700;
+	image-rendering: 50%
+}
+p {
+	font-family: Avenir, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 100;
+    padding: 5px;
+}
+footer {
+	font-family: Avenir, Arial, sans-serif;
+	font-size: 14px;
+	font-weight: 100;
+	color: #00453D;
+}
+a: hover {
+	color: #e74900;
+	text-decoration: none;
+}
