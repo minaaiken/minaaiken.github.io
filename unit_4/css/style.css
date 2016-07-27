@@ -24,6 +24,8 @@ ul {
 }
 li {
     list-style-type: none;
+    margin: 0;
+    padding: 10px;
 }
 h3 {
 	font-family: Avenir, Arial, sans-serif;
