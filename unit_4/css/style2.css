@@ -7,7 +7,7 @@ body {
 	color: #00453D;
 	margin: 55px;
 	background: url("images/poppy.jpg");
-	background-image: 50% 70%
+	background-position: 50% 70%
 }
 h1 {
 	font-family: 'Oswald', Arial, sans-serif;
