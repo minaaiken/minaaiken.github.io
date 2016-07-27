@@ -3,12 +3,12 @@ header {
 	min-height: 100%;
 }
 body {
- 	background: url("images/poppy.jpg");
+ 	background: href="/images/poppy.jpg";
  	background-size: cover;
     background-position: 50% 70%
  	text-align: left;
 	color: #00453D;
-	margin: 25px;
+	margin: 55px;
 }
 h1 {
 	font-family: 'Oswald', Arial, sans-serif;
