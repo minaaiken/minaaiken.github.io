@@ -6,13 +6,13 @@ body {
 	text-align: left;
 	color: #00453D;
 	margin: 55px;
+	background: url("images/poppy.jpg");
+	background-image: 50% 70%
 }
 h1 {
 	font-family: 'Oswald', Arial, sans-serif;
 	font-size: 48px;
 	font-weight: 700;
-	background: url("images/poppy.jpg");
-	background-image: 50% 70%
 }
 p {
 	font-family: Avenir, Arial, sans-serif;
